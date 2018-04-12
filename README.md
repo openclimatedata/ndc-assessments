@@ -35,3 +35,7 @@ See also https://data.worldbank.org/summary-terms-of-use
 ### Citation:
 
 World Bank. 2017. INDC. Accessed October 5. http://spappssecext.worldbank.org/sites/indc/Pages/INDCHome.aspx
+
+## Preparation scripts
+
+The processing scripts in `scripts` are licensed as CC0.
