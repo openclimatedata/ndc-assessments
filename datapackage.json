@@ -1,6 +1,8 @@
 {
   "name": "ndc-assessments",
   "title": "Assessments of Climate Action Plans",
+  "description": "Data Package with Assessments of the Nationally Determined Contributions (NDCs)",
+  "repository": "https://github.com/openclimatedata/ndc-assessments/",
   "resources": [
     {
       "path": "data/ndc-content-cait.csv",
