@@ -26,7 +26,7 @@ Python 3, wget and Make are required to re-run the scripts:
 
 Creative-Commons Attribution (CC-BY) https://creativecommons.org/licenses/by/4.0/ 
 
-### Citation:
+### Citation
 
 WRI, CAIT Climate Data Explorer. 2016. CAIT Paris Contributions Map. Washington, DC: World Resources Institute. http://cait.wri.org/indcs/
 
@@ -47,7 +47,7 @@ Creative-Commons Attribution (CC-BY)  https://creativecommons.org/licenses/by/4
 
 See also https://data.worldbank.org/summary-terms-of-use
 
-### Citation:
+### Citation
 
 World Bank. 2017. INDC. Accessed October 5. http://spappssecext.worldbank.org/sites/indc/Pages/INDCHome.aspx
 
