@@ -1,4 +1,4 @@
-Data Package with Assessments of the Nationally Determined Contribuions of
+Data Package with Assessments of the Nationally Determined Contributions (NDCs) of
 Countries
 
 # Data
