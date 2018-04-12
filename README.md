@@ -1,17 +1,21 @@
 Data Package with Assessments of the Nationally Determined Contributions (NDCs) of
 Countries
 
+
 # Data
 
-The Excel files for CAIT and Worldbank assessments are converted into CSV files
-for simpler analysis.
+The Excel files from the [CAIT Climate Data Explorer](http://cait.wri.org/indcs/)
+and [Worldbank INDC tool](http://indc.worldbank.org/) assessments were downloaded
+from [Climate Watch](https://www.climatewatchdata.org/)
+and are converted into CSV files for simpler analysis.
+The CSV file from the [Klimalog NDC Explorer](https://klimalog.die-gdi.de/ndc/) is provided as is.
 
 
 # Preparation
 
 Data was downloaded from the Climate Watch (https://www.climatewatchdata.org/)
-portal and converted into CSV files.
-Python3 and Make are required to re-run the scripts:
+portal and converted into CSV files. Klimalog data is downloaded directly.
+Python 3, wget and Make are required to re-run the scripts:
 
     make
 
