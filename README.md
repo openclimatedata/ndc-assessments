@@ -6,6 +6,16 @@ Countries
 The Excel files for CAIT and Worldbank assessments are converted into CSV files
 for simpler analysis.
 
+
+# Preparation
+
+Data was downloaded from the Climate Watch (https://www.climatewatchdata.org/)
+portal and converted into CSV files.
+Python3 and Make are required to re-run the scripts:
+
+    make
+
+
 # License
 
 ## CAIT Assessment
