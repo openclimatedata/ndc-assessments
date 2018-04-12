@@ -1,0 +1,5 @@
+xlrd
+pandas
+pyicu
+git+https://github.com/alephdata/countrynames@remove-pycountry
+goodtables

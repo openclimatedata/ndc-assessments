@@ -1,0 +1,288 @@
+{
+  "name": "ndc-assessments",
+  "title": "Assessments of Climate Action Plans",
+  "resources": [
+    {
+      "path": "data/ndc-content-cait.csv",
+      "pathType": "local",
+      "name": "ndc-content-cait",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "UTF-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string"
+          },
+          {
+            "name": "INDC summary",
+            "type": "string"
+          },
+          {
+            "name": "Mitigation contribution type",
+            "type": "string"
+          },
+          {
+            "name": "GHG target type",
+            "type": "string"
+          },
+          {
+            "name": "Non-GHG target",
+            "type": "string"
+          },
+          {
+            "name": "Non-GHG target type",
+            "type": "string"
+          },
+          {
+            "name": "Actions",
+            "type": "string"
+          },
+          {
+            "name": "Base year(s)/period",
+            "type": "string"
+          },
+          {
+            "name": "Base year/period emissions",
+            "type": "string"
+          },
+          {
+            "name": "Base year/period emissions intensity",
+            "type": "string"
+          },
+          {
+            "name": "Projected baseline emissions",
+            "type": "string"
+          },
+          {
+            "name": "Target year(s)/period",
+            "type": "any"
+          },
+          {
+            "name": "Target level of emissions",
+            "type": "string"
+          },
+          {
+            "name": "Single or multi-year target",
+            "type": "string"
+          },
+          {
+            "name": "Long-term target",
+            "type": "string"
+          },
+          {
+            "name": "Date actions come into effect and date of completion",
+            "type": "string"
+          },
+          {
+            "name": "Sectors covered",
+            "type": "string"
+          },
+          {
+            "name": "Greenhouse gases covered",
+            "type": "string"
+          },
+          {
+            "name": "Percentage of national emissions covered, as reflected in the most recent national greenhouse gas inventory",
+            "type": "string"
+          },
+          {
+            "name": "Planning processes",
+            "type": "string"
+          },
+          {
+            "name": "Assumed IPCC Inventory methodologies to be used to track progress",
+            "type": "string"
+          },
+          {
+            "name": "Assumed global warming potential (GWP) values to be used to track progress",
+            "type": "string"
+          },
+          {
+            "name": "International market mechanisms: Planned use of international market mechanisms",
+            "type": "string"
+          },
+          {
+            "name": "International market mechanisms: Limit on the percentage of emission reductions that may be achieved through the use of units from international market mechanisms",
+            "type": "string"
+          },
+          {
+            "name": "International market mechanisms: Assumed types and years of units to be applied",
+            "type": "string"
+          },
+          {
+            "name": "International market mechanisms: Whether and how any units purchased/acquired or sold/transferred abroad will ensure environmental integrity and avoid double counting",
+            "type": "string"
+          },
+          {
+            "name": "Accounting for emissions and removals from the land sector: Treatment of land sector",
+            "type": "string"
+          },
+          {
+            "name": "Accounting for emissions and removals from the land sector: Coverage of the land sector as compared to total net emissions from the land sector, as a percentage if known",
+            "type": "string"
+          },
+          {
+            "name": "Accounting for emissions and removals from the land sector: Assumed accounting approach for the land sector (activity-based or land-based)",
+            "type": "string"
+          },
+          {
+            "name": "Accounting for emissions and removals from the land sector: Assumed accounting method for the land sector (net-net, forward-looking baseline, or gross-net)",
+            "type": "string"
+          },
+          {
+            "name": "Accounting for emissions and removals from the land sector: Level against which emissions and removals from the land sector are accounted, including policy assumptions and methodologies employed",
+            "type": "string"
+          },
+          {
+            "name": "Accounting for emissions and removals from the land sector: Any assumed use of methodologies to quantify and account for natural disturbances and legacy effects",
+            "type": "string"
+          },
+          {
+            "name": "Accounting for emissions and removals from the land sector: Any other relevant accounting approaches, assumptions or methodologies",
+            "type": "string"
+          },
+          {
+            "name": "Baseline scenario targets: Static or dynamic baseline scenario",
+            "type": "string"
+          },
+          {
+            "name": "Baseline scenario targets: Cut-off year for policies included in the baseline scenario, and any significant policies excluded from the baseline scenario",
+            "type": "string"
+          },
+          {
+            "name": "Baseline scenario targets: Projection method",
+            "type": "string"
+          },
+          {
+            "name": "Baseline scenario targets: Emission drivers included and assumptions and data sources for key drivers",
+            "type": "string"
+          },
+          {
+            "name": "Baseline scenario targets: For dynamic baseline scenario targets, under what conditions will the baseline be recalculated",
+            "type": "string"
+          },
+          {
+            "name": "Assumptions and methodological approaches for GHG reduction targets relative to emissions intensity",
+            "type": "string"
+          },
+          {
+            "name": "Assumptions and methodological approaches for INDCs that include actions",
+            "type": "string"
+          },
+          {
+            "name": "Description of fairness",
+            "type": "string"
+          },
+          {
+            "name": "Description of ambition",
+            "type": "string"
+          },
+          {
+            "name": "Description of how it contributes towards achieving the objective of the Convention",
+            "type": "string"
+          },
+          {
+            "name": "Conditionality of the INDC",
+            "type": "string"
+          },
+          {
+            "name": "Additional action that could be achieved if certain conditions were met",
+            "type": "string"
+          },
+          {
+            "name": "Additional information on adaptation not captured elsewhere, if relevant",
+            "type": "string"
+          },
+          {
+            "name": "Additional information, explanation, or context as relevant",
+            "type": "string"
+          },
+          {
+            "name": "Submission date",
+            "type": "string"
+          },
+          {
+            "name": "Last updated (in the Module)",
+            "type": "date"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "path": "data/ndc-content-world-bank.csv",
+      "pathType": "local",
+      "name": "ndc-content-world-bank",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "UTF-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "SectorSubSectorType",
+            "type": "string"
+          },
+          {
+            "name": "RegionCode",
+            "type": "string"
+          },
+          {
+            "name": "RegionName",
+            "type": "string"
+          },
+          {
+            "name": "CountryName",
+            "type": "string"
+          },
+          {
+            "name": "CountryCode",
+            "type": "string"
+          },
+          {
+            "name": "Sector",
+            "type": "string"
+          },
+          {
+            "name": "SubSector",
+            "type": "string"
+          },
+          {
+            "name": "Section",
+            "type": "string"
+          },
+          {
+            "name": "QuestionCode",
+            "type": "string"
+          },
+          {
+            "name": "QuestionText",
+            "type": "string"
+          },
+          {
+            "name": "QuestionType",
+            "type": "string"
+          },
+          {
+            "name": "ResponseText",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}
