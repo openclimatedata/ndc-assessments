@@ -299,6 +299,575 @@
           ""
         ]
       }
+    },
+    {
+      "name": "ndc-content-klimalog-die-gdi",
+      "path": "data/ndc-content-klimalog-die-gdi.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "licenses": [
+        {
+          "name": "CC-BY-ND-4.0",
+          "title": "Creative Commons Attribution-NoDerivatives 4.0 International",
+          "path": "https://creativecommons.org/licenses/by-nd/4.0/"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "countryName",
+            "type": "string"
+          },
+          {
+            "name": "countryCode",
+            "type": "string"
+          },
+          {
+            "name": "1. typeOfTargetVIS",
+            "type": "number"
+          },
+          {
+            "name": "1. typeOfTargetTXT",
+            "type": "string"
+          },
+          {
+            "name": "2. costsOfCCMVIS",
+            "type": "number"
+          },
+          {
+            "name": "2. costsOfCCMTXT",
+            "type": "string"
+          },
+          {
+            "name": "3. renewableEnergyVIS",
+            "type": "number"
+          },
+          {
+            "name": "3. renewableenergyTXT",
+            "type": "string"
+          },
+          {
+            "name": "4. energyEffVIS",
+            "type": "number"
+          },
+          {
+            "name": "4. energyEffTXT",
+            "type": "string"
+          },
+          {
+            "name": "5. transportVIS",
+            "type": "number"
+          },
+          {
+            "name": "5. transportTXT",
+            "type": "string"
+          },
+          {
+            "name": "6. carbonCaptStorVIS",
+            "type": "number"
+          },
+          {
+            "name": "6. carbonCaptStorTXT",
+            "type": "string"
+          },
+          {
+            "name": "7. agricultureVIS",
+            "type": "number"
+          },
+          {
+            "name": "7. agricultureTXT",
+            "type": "string"
+          },
+          {
+            "name": "8. landUseChangeVIS",
+            "type": "number"
+          },
+          {
+            "name": "8. landUseChangeTXT",
+            "type": "string"
+          },
+          {
+            "name": "9. wasteVIS",
+            "type": "number"
+          },
+          {
+            "name": "9. wasteTXT",
+            "type": "string"
+          },
+          {
+            "name": "10. redNonCO2GasesVIS",
+            "type": "number"
+          },
+          {
+            "name": "10. redNonCO2GasesTXT",
+            "type": "string"
+          },
+          {
+            "name": "11. fossilFuelSubsidiaryVIS",
+            "type": "number"
+          },
+          {
+            "name": "11. fossilFuelSubsidiaryTXT",
+            "type": "string"
+          },
+          {
+            "name": "12. landusechangeVIS",
+            "type": "number"
+          },
+          {
+            "name": "12. landusechangeTXT",
+            "type": "string"
+          },
+          {
+            "name": "13. reddVIS",
+            "type": "number"
+          },
+          {
+            "name": "13. reddTXT",
+            "type": "string"
+          },
+          {
+            "name": "14. tradeVIS",
+            "type": "number"
+          },
+          {
+            "name": "14. tradeTXT",
+            "type": "string"
+          },
+          {
+            "name": "15. marketMechanismsVIS",
+            "type": "number"
+          },
+          {
+            "name": "15. marketMechanismsTXT",
+            "type": "string"
+          },
+          {
+            "name": "16. mitigationDocumentsVIS",
+            "type": "number"
+          },
+          {
+            "name": "16. mitigationDocumentsTXT",
+            "type": "string"
+          },
+          {
+            "name": "17. coBenefitsCCMVIS",
+            "type": "number"
+          },
+          {
+            "name": "17. coBenefitsCCMTXT",
+            "type": "string"
+          },
+          {
+            "name": "18. migrationDisplacementVIS",
+            "type": "number"
+          },
+          {
+            "name": "18. migrationDisplacementTXT",
+            "type": "string"
+          },
+          {
+            "name": "19. vulnerabilityAgricultureVIS",
+            "type": "number"
+          },
+          {
+            "name": "19. vulnerabilityAgricultureTXT",
+            "type": "string"
+          },
+          {
+            "name": "20. vulnerabilityWaterVIS",
+            "type": "number"
+          },
+          {
+            "name": "20. vulnerabilityWaterTXT",
+            "type": "string"
+          },
+          {
+            "name": "21. vulnerabilityEcosystemsVIS",
+            "type": "number"
+          },
+          {
+            "name": "21. vulnerabilityEcosystemsTXT",
+            "type": "string"
+          },
+          {
+            "name": "22. vulnerabilityHealthVIS",
+            "type": "number"
+          },
+          {
+            "name": "22. vulnerabilityHealthTXT",
+            "type": "string"
+          },
+          {
+            "name": "23. vulnerabilityCoastalZonesVIS",
+            "type": "number"
+          },
+          {
+            "name": "23. vulnerabilityCoastalZonesTXT",
+            "type": "string"
+          },
+          {
+            "name": "24. vulnerabilityCostsOfCRHVIS",
+            "type": "number"
+          },
+          {
+            "name": "24. vulnerabilityCostsOfCRHTXT",
+            "type": "string"
+          },
+          {
+            "name": "25. futureCostsVIS",
+            "type": "number"
+          },
+          {
+            "name": "25. futureCostsTXT",
+            "type": "string"
+          },
+          {
+            "name": "26. clRisksRxtremeWeatherVIS",
+            "type": "number"
+          },
+          {
+            "name": "26. clRisksExtremeWeatherTXT",
+            "type": "string"
+          },
+          {
+            "name": "27. clRisksFloodsVIS",
+            "type": "number"
+          },
+          {
+            "name": "27. clRisksFloodsTXT",
+            "type": "string"
+          },
+          {
+            "name": "28. clRisksDroughtsVIS",
+            "type": "number"
+          },
+          {
+            "name": "28. clRisksDroughtsTXT",
+            "type": "string"
+          },
+          {
+            "name": "29. clRisksTempIncreaseVIS",
+            "type": "number"
+          },
+          {
+            "name": "29. clRisksTempIncreaseTXT",
+            "type": "string"
+          },
+          {
+            "name": "30. clRisksSeaLevelRiseVIS",
+            "type": "number"
+          },
+          {
+            "name": "30. clRisksSeaLevelRiseTXT",
+            "type": "string"
+          },
+          {
+            "name": "31. prioritySectorsWaterVIS",
+            "type": "number"
+          },
+          {
+            "name": "31. prioritySectorsWaterTXT",
+            "type": "string"
+          },
+          {
+            "name": "32. prioritySectorsAgricultureVIS",
+            "type": "number"
+          },
+          {
+            "name": "32. prioritySectorsAgricultureTXT",
+            "type": "string"
+          },
+          {
+            "name": "33. prioritySectorsHealthVIS",
+            "type": "number"
+          },
+          {
+            "name": "33. prioritySectorsHealthTXT",
+            "type": "string"
+          },
+          {
+            "name": "34. prioritySectorsEcosystemsVIS",
+            "type": "number"
+          },
+          {
+            "name": "34. prioritySectorsEcosystemsTXT",
+            "type": "string"
+          },
+          {
+            "name": "35. prioritySectorsForestryVIS",
+            "type": "number"
+          },
+          {
+            "name": "35. prioritySectorsForestryTXT",
+            "type": "string"
+          },
+          {
+            "name": "36. quantifiedAdaptationTargetVIS",
+            "type": "number"
+          },
+          {
+            "name": "36. quantifiedAdaptationTargetTXT",
+            "type": "string"
+          },
+          {
+            "name": "37. costsOfAdaptationVIS",
+            "type": "number"
+          },
+          {
+            "name": "37. costsOfAdaptationTXT",
+            "type": "string"
+          },
+          {
+            "name": "38. adaptationDocumentsVIS",
+            "type": "number"
+          },
+          {
+            "name": "38. adaptationDocumentsTXT",
+            "type": "string"
+          },
+          {
+            "name": "39. coBenefitsCCAVIS",
+            "type": "number"
+          },
+          {
+            "name": "39. coBenefitsCCATXT",
+            "type": "string"
+          },
+          {
+            "name": "40. adaptationFinanceConditionalityVIS",
+            "type": "number"
+          },
+          {
+            "name": "40. adaptationFinanceConditionalityTXT",
+            "type": "string"
+          },
+          {
+            "name": "41. mitigationFinanceConditionalityVIS",
+            "type": "number"
+          },
+          {
+            "name": "41. mitigationFinanceConditionalityTXT",
+            "type": "string"
+          },
+          {
+            "name": "42. technNeedsVIS",
+            "type": "number"
+          },
+          {
+            "name": "42. techNeedsTXT",
+            "type": "string"
+          },
+          {
+            "name": "43. techTransferVIS",
+            "type": "number"
+          },
+          {
+            "name": "43. techTransferTXT",
+            "type": "string"
+          },
+          {
+            "name": "44. capacityBuildingVIS",
+            "type": "number"
+          },
+          {
+            "name": "44. capacityBuildingTXT",
+            "type": "string"
+          },
+          {
+            "name": "45. moiFairnessVIS",
+            "type": "number"
+          },
+          {
+            "name": "45. moiFairnessTXT",
+            "type": "string"
+          },
+          {
+            "name": "60. ClimateriskinsuranceVIS",
+            "type": "number"
+          },
+          {
+            "name": "60. ClimateriskinsuranceTXT",
+            "type": "string"
+          },
+          {
+            "name": "46. planningOfINDCFormulationVIS",
+            "type": "number"
+          },
+          {
+            "name": "46. planningOfINDCFormulationTXT",
+            "type": "string"
+          },
+          {
+            "name": "47. stakeholderConsFormulationVIS",
+            "type": "number"
+          },
+          {
+            "name": "47. stakeholderConsFormulationTXT",
+            "type": "string"
+          },
+          {
+            "name": "48. planningOfINDCImplementationVIS",
+            "type": "number"
+          },
+          {
+            "name": "48. planningOfINDCImplementationTXT",
+            "type": "string"
+          },
+          {
+            "name": "49. assessmentAndReviewVIS",
+            "type": "number"
+          },
+          {
+            "name": "49. assessmentAndReviewTXT",
+            "type": "string"
+          },
+          {
+            "name": "50. conjunctionWithSDGsVIS",
+            "type": "number"
+          },
+          {
+            "name": "50. conjunctionWithSDGsTXT",
+            "type": "string"
+          },
+          {
+            "name": "51. conjunctionWithNatSustDevtVIS",
+            "type": "number"
+          },
+          {
+            "name": "51. conjunctionWithNatSustDevtTXT",
+            "type": "string"
+          },
+          {
+            "name": "52. fossilFuelSubsReformVIS",
+            "type": "number"
+          },
+          {
+            "name": "52. fossilFuelSubsReformTXT",
+            "type": "string"
+          },
+          {
+            "name": "53. greenEconomyVIS",
+            "type": "number"
+          },
+          {
+            "name": "53. greenEconomyTXT",
+            "type": "string"
+          },
+          {
+            "name": "54. disasterRiskReductionVIS",
+            "type": "number"
+          },
+          {
+            "name": "54. disasterRiskReductionTXT",
+            "type": "string"
+          },
+          {
+            "name": "55. sectionOnFairnessVIS",
+            "type": "number"
+          },
+          {
+            "name": "55. sectionOnFairnessTXT",
+            "type": "string"
+          },
+          {
+            "name": "56. historicalResponsibVIS",
+            "type": "number"
+          },
+          {
+            "name": "56. historicalResponsibTXT",
+            "type": "string"
+          },
+          {
+            "name": "57. lossAndDamageVIS",
+            "type": "number"
+          },
+          {
+            "name": "57. lossAndDamageTXT",
+            "type": "string"
+          },
+          {
+            "name": "58. genderVIS",
+            "type": "number"
+          },
+          {
+            "name": "58. genderTXT",
+            "type": "string"
+          },
+          {
+            "name": "59. humanRightsVIS",
+            "type": "number"
+          },
+          {
+            "name": "59. humanRightsTXT",
+            "type": "string"
+          },
+          {
+            "name": "byIncomeVIS",
+            "type": "number"
+          },
+          {
+            "name": "byIncomeTXT",
+            "type": "string"
+          },
+          {
+            "name": "byRegionVIS",
+            "type": "number"
+          },
+          {
+            "name": "byRegionTXT",
+            "type": "string"
+          },
+          {
+            "name": "g20VIS",
+            "type": "number"
+          },
+          {
+            "name": "g20TXT",
+            "type": "string"
+          },
+          {
+            "name": "OECDVIS",
+            "type": "number"
+          },
+          {
+            "name": "OECDTXT",
+            "type": "string"
+          },
+          {
+            "name": "LDCsVIS",
+            "type": "number"
+          },
+          {
+            "name": "LDCsTXT",
+            "type": "string"
+          },
+          {
+            "name": "LandlockedCountriesVIS",
+            "type": "number"
+          },
+          {
+            "name": "LandlockedCountriesTXT",
+            "type": "string"
+          },
+          {
+            "name": "SIDSVIS",
+            "type": "number"
+          },
+          {
+            "name": "SIDSTXT",
+            "type": "string"
+          },
+          {
+            "name": "OPECVIS",
+            "type": "number"
+          },
+          {
+            "name": "OPECTXT",
+            "type": "string"
+          }
+        ]
+      }
     }
   ]
 }
