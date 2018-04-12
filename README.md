@@ -28,6 +28,8 @@ WRI, CAIT Climate Data Explorer. 2016. CAIT Paris Contributions Map. Washington,
 
 ## Klimalog GDI DIE NDC Explorer Assessment
 
+Creative-Commons Attribution (CC-BY-ND)  https://creativecommons.org/licenses/by-nd/4.0/
+
 Reference / License: the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) holds the copyright to the NDC Explorer and the database that it is based on. It is licensed under Creative Commons and you are free to copy and redistribute material derived from the NDC Explorer by following the guideline of the Creative Commons License.
 CC BY - ND (full attribution, no derivatives).
 
