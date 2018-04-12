@@ -11,6 +11,16 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "UTF-8",
+      "sources": [
+        {
+          "title": "WRI - CAIT Climate Data Explorer",
+          "path": "http://cait.wri.org/indc/"
+        },
+        {
+          "title": "Climate Watch",
+          "path": "https://www.climatewatchdata.org/"
+        }
+      ],
       "licenses": [
         {
           "name": "CC-BY-4.0",
@@ -233,6 +243,16 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "UTF-8",
+      "sources": [
+        {
+          "title": "Worldbank: Intended Nationally Determined Contributions (INDCs)",
+          "path": "http://indc.worldbank.org/"
+        },
+        {
+          "title": "Climate Watch",
+          "path": "https://www.climatewatchdata.org/"
+        }
+      ],
       "licenses": [
         {
           "name": "CC-BY-4.0",
@@ -310,6 +330,12 @@
           "name": "CC-BY-ND-4.0",
           "title": "Creative Commons Attribution-NoDerivatives 4.0 International",
           "path": "https://creativecommons.org/licenses/by-nd/4.0/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Klimalog - NDC Explorer",
+          "path": "https://klimalog.die-gdi.de/ndc/"
         }
       ],
       "schema": {
