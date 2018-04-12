@@ -37,7 +37,8 @@ Creative-Commons Attribution (CC-BY-ND)  https://creativecommons.org/licenses/b
 Reference / License: the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) holds the copyright to the NDC Explorer and the database that it is based on. It is licensed under Creative Commons and you are free to copy and redistribute material derived from the NDC Explorer by following the guideline of the Creative Commons License.
 CC BY - ND (full attribution, no derivatives).
 
-Suggested citation:
+### Suggested citation
+
 Pauw, W.P, Cassanmagnano, D., Mbeva, K., Hein, J., Guarin, A., Brandi, C., Dzebo, A., Canales, N., Adams, K.M., Atteridge, A., Bock, T., Helms, J., Zalewski, A., Frommé. E., Lindener, A., Muhammad, D. (2016). NDC Explorer. German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), African Centre for Technology Studies (ACTS), Stockholm Environment Institute (SEI). DOI: 10.23661/ndc_explorer_2017_2.0
 
 ## Worldbank Assesment
