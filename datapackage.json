@@ -11,11 +11,13 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "UTF-8",
-      "licenses": [{
-        "name": "CC-BY-4.0",
-        "title": "Creative Commons Attribution 4.0",
-        "path": "https://creativecommons.org/licenses/by/4.0/"
-      }],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "title": "Creative Commons Attribution 4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
       "dialect": {
         "delimiter": ",",
         "quoteChar": "\""
@@ -231,11 +233,13 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "UTF-8",
-      "licenses": [{
-        "name": "CC-BY-4.0",
-        "title": "Creative Commons Attribution 4.0",
-        "path": "https://creativecommons.org/licenses/by/4.0/"
-      }],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "title": "Creative Commons Attribution 4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
       "dialect": {
         "delimiter": ",",
         "quoteChar": "\""
