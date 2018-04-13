@@ -7,7 +7,7 @@ countries
 The Excel files from the [CAIT Climate Data Explorer](http://cait.wri.org/indcs/)
 and [Worldbank INDC tool](http://indc.worldbank.org/) assessments were downloaded
 from [Climate Watch](https://www.climatewatchdata.org/)
-and are converted into CSV files for simpler analysis.
+and are converted into CSV files to simplify analysis.
 The CSV file from the [Klimalog NDC Explorer](https://klimalog.die-gdi.de/ndc/) is provided as is.
 
 
