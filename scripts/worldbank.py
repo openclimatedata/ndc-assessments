@@ -11,15 +11,14 @@ def to_code(countryname):
 
 # Worldbank analysis
 wb = pd.read_excel(
-    root / "archive/CW_NDC_Content_WB_31102017.xlsx",
-    skiprows=2
+    root / "archive/CW_NDC_Content_26062018.xlsx",
+    sheet_name=2
 )
 
-print("Some lines do not contain a country code and are removed:")
-print(wb[pd.isnull(wb.CountryCode)].iloc[:, 0])
+# Fix missing country name.
+wb.loc[wb.CountryCode == "NI", "CountryName"] = "Nicaragua"
 
-wb = wb[~pd.isnull(wb.CountryCode)]
-
+# Convert to 3-letter codes from names.
 wb.CountryCode = wb.CountryName.apply(to_code)
 
 assert wb.CountryCode.isnull().sum() == 0

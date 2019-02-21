@@ -12,7 +12,7 @@ def to_code(countryname):
 
 # CAIT data
 cait = pd.read_excel(
-    root / "archive/CW_NDC_Content_CAIT_31102017.xlsx",
+    root / "archive/CW_NDC_Content_26062018.xlsx",
     sheet_name=1
 )
 
