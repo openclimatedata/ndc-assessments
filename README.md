@@ -8,13 +8,13 @@ The Excel files from the [CAIT Climate Data Explorer](http://cait.wri.org/indcs/
 and [Worldbank INDC tool](http://indc.worldbank.org/) assessments were downloaded
 from [Climate Watch](https://www.climatewatchdata.org/)
 and are converted into CSV files to simplify analysis.
-The CSV file from the [Klimalog NDC Explorer](https://klimalog.die-gdi.de/ndc/) is provided as is.
+The CSV files from the [Klimalog NDC Explorer](https://klimalog.die-gdi.de/ndc/) are provided as is.
 
 
 # Preparation
 
 Data was downloaded from the Climate Watch (https://www.climatewatchdata.org/)
-portal and converted into CSV files. Klimalog data is downloaded directly.
+portal and converted into CSV files. Klimalog data is downloaded directly from <https://klimalog.die-gdi.de/ndc/#open-data>.
 Python 3, wget and Make are required to re-run the scripts:
 
     make
@@ -32,13 +32,9 @@ WRI, CAIT Climate Data Explorer. 2016. CAIT Paris Contributions Map. Washington,
 
 ## Klimalog GDI DIE NDC Explorer Assessment
 
-Creative-Commons Attribution (CC-BY-ND)  https://creativecommons.org/licenses/by-nd/4.0/
+Creative-Commons Attribution (CC-BY) https://creativecommons.org/licenses/by/4.0/ 
 
-Reference / License: the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) holds the copyright to the NDC Explorer and the database that it is based on. It is licensed under Creative Commons and you are free to copy and redistribute material derived from the NDC Explorer by following the guideline of the Creative Commons License.
-CC BY - ND (full attribution, no derivatives).
-
-### Suggested citation
-
+###  Citation
 Pauw, W.P, Cassanmagnano, D., Mbeva, K., Hein, J., Guarin, A., Brandi, C., Dzebo, A., Canales, N., Adams, K.M., Atteridge, A., Bock, T., Helms, J., Zalewski, A., Frommé. E., Lindener, A., Muhammad, D. (2016). NDC Explorer. German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), African Centre for Technology Studies (ACTS), Stockholm Environment Institute (SEI). DOI: 10.23661/ndc_explorer_2017_2.0
 
 ## Worldbank Assesment
