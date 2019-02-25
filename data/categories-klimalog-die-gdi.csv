@@ -1,4 +1,13 @@
 sub_category,sub_category_code,category,title,description,classification-0,classification-1,classification-2,classification-3,classification-4,classification-5,classification-6
+#Copyright: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE)
+#A project by: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), African Centre for Technology Studies (ACTS), Stockholm Environment Institute (SEI)
+#Funded by the German Federal Ministry for Economic Cooperation and Development (BMZ)
+#Additional financial contributions by the Swedish International Development Cooperation Agency (SIDA) and the Swedish Research Council Formas
+#Issued 2019
+#Last updated 2019-01-14
+#Rights: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+#Citation: Pauw, W.P. et al. (2016). NDC Explorer. German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), African Centre for Technology Studies (ACTS), Stockholm Environment Institute (SEI). DOI: 10.23661/ndc_explorer_2017_2.0
+#Contact: klimalog@die-gdi.de
 type_of_target,cat1,"climate change mitigation","Type of targets","This sub-category shows the type or types of target of each INDC submitted","Not submitted","Business as usual","Absolute target","Intensity target","Peaking target","Policies and Actions","Adaptation with mitigation co-benefits"
 temp_limit,cat65,"climate change mitigation","Limiting global temperature increase","This sub-category shows whether countries refer to limiting the global temperature increase (above pre-industrial levels) as negotiated under the UNFCCC. The subcategory also shows which (I)NDCs claim to be consistent with limiting the global temperature increase to 2°C or 1.5 °C above pre-industrial levels","Not submitted","Not mentioning global effort to limit global temperature increase to 2°C or 1.5°C","Mentioning global effort to limit global temperature increase to 2°C","Mentioning global effort to limit global temperature increase to 1.5°C","(I)NDC claims to be consistent with 2°C limit","(I)NDC claims to be consistent with 1.5°C limit",
 costs_of_ccm,cat2,"climate change mitigation","Costs of mitigation/investment needs","(partial) Costs of reaching the mitigation contribution as described in parties’ INDCs (in US$). Some countries provide full costs estimates, others provide costs of individual projects","Not submitted","(partial) costs not indicated","0-1 billion US$ until 2030","1-5 billion US$ until 2030","5-10 billion US$ until 2030","10-20 billion US$ until 2030",">20 billion US$ until 2030"

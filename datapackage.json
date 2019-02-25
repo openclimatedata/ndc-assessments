@@ -14,7 +14,8 @@
       "encoding": "UTF-8",
       "dialect": {
         "delimiter": ",",
-        "quoteChar": "\""
+        "quoteChar": "\"",
+        "commentChar": "#"
       },
       "sources": [
         {
@@ -100,7 +101,8 @@
       "encoding": "UTF-8",
       "dialect": {
         "delimiter": ",",
-        "quoteChar": "\""
+        "quoteChar": "\"",
+        "commentChar": "#"
       },
       "sources": [
         {
@@ -1460,7 +1462,8 @@
       "encoding": "UTF-8",
       "dialect": {
         "delimiter": ",",
-        "quoteChar": "\""
+        "quoteChar": "\"",
+        "commentChar": "#"
       },
       "sources": [
         {
