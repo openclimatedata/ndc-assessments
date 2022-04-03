@@ -8,7 +8,8 @@ The Excel files from the [CAIT Climate Data Explorer](http://cait.wri.org/indcs/
 and [Worldbank INDC tool](http://indc.worldbank.org/) assessments were downloaded
 from [Climate Watch](https://www.climatewatchdata.org/)
 and are converted into CSV files to simplify analysis.
-The CSV files from the [Klimalog NDC Explorer](https://klimalog.die-gdi.de/ndc/) are provided as is.
+The CSV files from the [Klimalog NDC Explorer](https://klimalog.die-gdi.de/ndc/)
+are provided as is with minor reformatting to the CSV file headers.
 
 
 # Preparation
