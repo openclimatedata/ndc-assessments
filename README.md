@@ -43,7 +43,7 @@ See their [website's](https://klimalog.die-gdi.de/ndc/#NDCExplorer/) 'download d
 The date of the latest update is also given inside the CSV file.
 
 ###  Citation
-Pauw, W.P, Cassanmagnano, D., Mbeva, K., Hein, J., Guarin, A., Brandi, C., Dzebo, A., Canales, N., Adams, K.M., Atteridge, A., Bock, T., Helms, J., Zalewski, A., Frommé. E., Lindener, A., Muhammad, D. (2016). NDC Explorer. German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), African Centre for Technology Studies (ACTS), Stockholm Environment Institute (SEI). DOI: 10.23661/ndc_explorer_2017_2.0
+Pauw, Pieter / Beck, Tanja / Valverde, María José et al. (2022): NDC Explorer. German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), African Centre for Technology Studies (ACTS), Stockholm Environment Institute (SEI), Frankfurt School - UNEP Collaborating Centre for Climate & Sustainable Energy Finance. DOI: 10.23661/ndc_explorer_2022_4.0
 
 ## Worldbank Assesment
 
