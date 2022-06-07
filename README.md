@@ -11,6 +11,7 @@ and are converted into CSV files to simplify analysis.
 The CSV files from the [Klimalog NDC Explorer](https://klimalog.die-gdi.de/ndc/)
 are provided as is with minor reformatting to the CSV file headers.
 
+See also https://www.climate-resource.com/tools/ndcs/
 
 # Preparation
 
